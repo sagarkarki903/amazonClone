@@ -114,11 +114,47 @@
 
 /** box6 **/
 
+.nav-cart{
+    font-size: 0.85rem;
+    font-weight: 700;
+    display: flex;
+
+}
+
 .nav-cart i{
     font-size: 30px;
     
 }
-.nav-cart{
-    font-size: 0.85rem;
-    font-weight: 700;
+.nav-cart p{
+    align-self: flex-end;
+}
+
+
+
+.cont{
+    display: flex;
+    border: 1px solid;
+    height: 300px;
+    flex-direction: row;
+    width: 500px;
+    position: absolute;
+    left: 100px;
+   
+   
+}
+
+.try{
+    background-color: cyan;
+    width: 100px;
+    height: 100px;
+}
+.try1{
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 200px;
+    align-self: center;
+    
+    
 }

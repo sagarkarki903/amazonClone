@@ -1,2 +1,2 @@
 # amazonClone
-Amazon website's clone 
+Front-End based Amazon website's clone using only HTML and CSS.
